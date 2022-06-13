@@ -1,0 +1,21 @@
+
+SUNUM 	:	elm642_proje_sunumu_mgk.pptx
+Rapor	:	rapor_musa_gokhan_korkut.docx
+
+kodlar	: KODLAR kodlarin calismasi :
+1. main.py			: Ana kod bloğudur. açılıp run edilince kodlar çalışır.
+2.baslangic_grafik		: grafik basliklarini ve ilk degerleri icerir.
+3. x_orj_modul.py		: gercek degerleri veren cisimin hareketidir.
+4.nkf_h_modul.py		: Kalman denklemlerinde kullanılan H matrisinin NKF icin yazilmis halidir.
+5.ekf_h_modul.py		: Kalman denklemlerinde kullanılan H matrisinin EKF icin yazilmis halidir.
+6.zk.py				: NKF & EKF icin ortak olcum verileri uretilir.
+7.kalman.py			: NKF & EKF icin kalman kodarini cagiran fonksiyonları ve grafik fonksiyonunu icerir.
+8.grafik_cizim.py		: Grafik cizdirmek icindir.
+9.ekf_duz_modul.py		: EKF icin Duzeltme (update) denklemlerini icerir
+10.nkf_duz_modul.py		: NKF icin Duzeltme (update) denklemlerini icerir
+11.ekf_kazanc_modul.py		: EKF icin Kazanc denklemini icerir.
+12.nkf_kazanc_modul.py		: NKF icin Kazanc denklemini icerir.
+13.ekf_thm_modul.py		: EKF icin Tahmin(predic.) denklemini icerir.
+14.nkf_thm_modul.py		: NKF icin Tahmin(predic.) denklemini icerir.
+
+kod_demo.mp4	: kodların çalıştığı bir video
